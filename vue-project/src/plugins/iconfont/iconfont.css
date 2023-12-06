@@ -1,0 +1,359 @@
+@font-face {
+  font-family: 'iconfont'; /* Project id 2834110 */
+  src:
+    url('//at.alicdn.com/t/c/font_2834110_0djl6h7ku74.woff2?t=1689671740429') format('woff2'),
+    url('//at.alicdn.com/t/c/font_2834110_0djl6h7ku74.woff?t=1689671740429') format('woff'),
+    url('//at.alicdn.com/t/c/font_2834110_0djl6h7ku74.ttf?t=1689671740429') format('truetype');
+}
+
+.iconfont {
+  font-family: 'iconfont' !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-loading:before {
+  content: '\e61e';
+}
+
+.icon-qingchu:before {
+  content: '\e62a';
+}
+
+.icon-xitongfanhui:before {
+  content: '\e6b6';
+}
+
+.icon-xiaoxi:before {
+  content: '\e64b';
+}
+
+.icon-shouye-shouye:before {
+  content: '\e63b';
+}
+
+.icon-top-s:before {
+  content: '\e629';
+}
+
+.icon-sangedian:before {
+  content: '\e614';
+}
+
+.icon-fenxiang:before {
+  content: '\e647';
+}
+
+.icon-fenxiang1:before {
+  content: '\e62e';
+}
+
+.icon-shuxian:before {
+  content: '\e638';
+}
+
+.icon-vertical_line:before {
+  content: '\e63a';
+}
+
+.icon-zhifubaozhifu:before {
+  content: '\e635';
+}
+
+.icon-JC_046:before {
+  content: '\e658';
+}
+
+.icon-sanjiao4:before {
+  content: '\e612';
+}
+
+.icon-sanjiao3:before {
+  content: '\e613';
+}
+
+.icon-icon-:before {
+  content: '\e62c';
+}
+
+.icon-jifen:before {
+  content: '\e6dc';
+}
+
+.icon-quxiao:before {
+  content: '\e672';
+}
+
+.icon-zhifubao:before {
+  content: '\e60b';
+}
+
+.icon-ai241:before {
+  content: '\e6e5';
+}
+
+.icon-xianshikejian:before {
+  content: '\e8d4';
+}
+
+.icon-yonghu:before {
+  content: '\e668';
+}
+
+.icon-yonghu1:before {
+  content: '\e660';
+}
+
+.icon-bianji:before {
+  content: '\e611';
+}
+
+.icon-jianhao:before {
+  content: '\e729';
+}
+
+.icon-zengjia:before {
+  content: '\e889';
+}
+
+.icon-below-s:before {
+  content: '\e628';
+}
+
+.icon-bukejian:before {
+  content: '\e60a';
+}
+
+.icon-mima:before {
+  content: '\e639';
+}
+
+.icon-anquan1:before {
+  content: '\e63e';
+}
+
+.icon-shangjiantou:before {
+  content: '\e61d';
+}
+
+.icon-dingdan:before {
+  content: '\e897';
+}
+
+.icon-shujuzoushi:before {
+  content: '\e6d4';
+}
+
+.icon-31xiaoxi:before {
+  content: '\e609';
+}
+
+.icon-weibo:before {
+  content: '\e62f';
+}
+
+.icon-weixin:before {
+  content: '\e66c';
+}
+
+.icon-QQ-circle-fill:before {
+  content: '\e887';
+}
+
+.icon-yangshengqi:before {
+  content: '\e604';
+}
+
+.icon-shouji:before {
+  content: '\e605';
+}
+
+.icon-wodekefu:before {
+  content: '\e68b';
+}
+
+.icon-5gouwudai2:before {
+  content: '\e656';
+}
+
+.icon-anquan:before {
+  content: '\e627';
+}
+
+.icon-kefu:before {
+  content: '\ec2e';
+}
+
+.icon-24gf-headset:before {
+  content: '\ea0e';
+}
+
+.icon-wode-:before {
+  content: '\e60c';
+}
+
+.icon-gengduo:before {
+  content: '\e60d';
+}
+
+.icon-jiaoyi:before {
+  content: '\e60e';
+}
+
+.icon-gengduo1:before {
+  content: '\e607';
+}
+
+.icon-wangzhantubiaoji2_huaban1fuben5:before {
+  content: '\e608';
+}
+
+.icon-shouye:before {
+  content: '\e60f';
+}
+
+.icon-iconfontscan:before {
+  content: '\e603';
+}
+
+.icon-alipay:before {
+  content: '\e618';
+}
+
+.icon-cuowuguanbiquxiao:before {
+  content: '\e8e7';
+}
+
+.icon-jingya:before {
+  content: '\e610';
+}
+
+.icon-renminbi2:before {
+  content: '\e63d';
+}
+
+.icon-renminbi3:before {
+  content: '\e73e';
+}
+
+.icon-renminbi1688:before {
+  content: '\e6cb';
+}
+
+.icon-fl-renminbi:before {
+  content: '\e634';
+}
+
+.icon-renminbi4:before {
+  content: '\eb1e';
+}
+
+.icon-renminbi_o:before {
+  content: '\eba2';
+}
+
+.icon-renminbi5:before {
+  content: '\e606';
+}
+
+.icon-renminbidanjia:before {
+  content: '\e616';
+}
+
+.icon-renminbi:before {
+  content: '\e602';
+}
+
+.icon-duihao:before {
+  content: '\eaf1';
+}
+
+.icon-shipin:before {
+  content: '\e601';
+}
+
+.icon-arrow-down:before {
+  content: '\e665';
+}
+
+.icon-arrow-right:before {
+  content: '\e667';
+}
+
+.icon-navigation:before {
+  content: '\e67a';
+}
+
+.icon-refresh:before {
+  content: '\e67b';
+}
+
+.icon-arrow-left-bold:before {
+  content: '\e686';
+}
+
+.icon-arrow-right-bold:before {
+  content: '\e687';
+}
+
+.icon-nvshangjia:before {
+  content: '\e600';
+}
+
+.icon-nan:before {
+  content: '\e6c2';
+}
+
+.icon-friend-add:before {
+  content: '\e662';
+}
+
+.icon-sound:before {
+  content: '\e666';
+}
+
+.icon-appreciate-light:before {
+  content: '\e66b';
+}
+
+.icon-camera:before {
+  content: '\e670';
+}
+
+.icon-attention:before {
+  content: '\e674';
+}
+
+.icon-video-light-fill:before {
+  content: '\e676';
+}
+
+.icon-video-light:before {
+  content: '\e677';
+}
+
+.icon-like:before {
+  content: '\e67e';
+}
+
+.icon-like-fill:before {
+  content: '\e67f';
+}
+
+.icon-back:before {
+  content: '\e682';
+}
+
+.icon-settings:before {
+  content: '\e683';
+}
+
+.icon-list-right:before {
+  content: '\e684';
+}
+
+.icon-search:before {
+  content: '\e685';
+}
